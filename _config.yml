@@ -1,2 +1,4 @@
 name: Gareth T. Davies
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
